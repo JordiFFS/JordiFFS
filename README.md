@@ -7,8 +7,7 @@
 Transformo procesos y problemas de negocio en soluciones de software funcionales, escalables y fáciles de usar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593XXXXXXXXX)
 ![Ubicación](https://img.shields.io/badge/Ecuador-🇪🇨-FFD100?style=for-the-badge)
 
 </div>
@@ -116,7 +115,7 @@ Si tienes un proyecto, una idea o un proceso que quieras automatizar, escríbeme
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)** · **[Correo](mailto:tu-correo@ejemplo.com)** · **[WhatsApp](https://wa.me/593XXXXXXXXX)**
+**[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)** · **[WhatsApp](https://wa.me/593XXXXXXXXX)**
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=JordiFFS&color=7aa2f7&style=flat-square&label=Visitas)
 
